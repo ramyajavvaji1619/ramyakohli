@@ -1,0 +1,14 @@
+.navbar-brand{
+    border:1px solid blue;
+    padding: 0px 14px;
+    color: white;
+}
+.head{
+    color: beige;
+}
+.par{
+    color: darkgray;
+}
+.banner_img{
+    width: 300px;
+}
